@@ -24,8 +24,6 @@ CPU and memory info should be obtained via /proc/cpuinfo and /proc/meminfo and a
 
 Results obtained from a different implementation will be ignored. Please do not submit those.
 
-Any results 
-
 ## When will you respond?
 There is __no__ expected timeline for responding to any questions, comments, pull requests, or any other incoming inquiries made in connection with this repository.  In other words, responding is a matter of discretion and any incoming inquiry/request may be ignored.
 
