@@ -1,0 +1,16 @@
+In an effort to reproduce and revalidate our own results in the original SimPath paper [1], we realized
+that a correction should be made in a result regarding LDAG.
+
+More specifically, LDAG finishes in approximately 23 minutes on the DBLP dataset, while the original paper
+stated the corresponding running time is 35 minutes.  It is likely due to the fact that when the paper
+was being prepared, the LDAG experiment on DBLP was not the only active process (except for OS required ones)
+in our server, and hence it got slowed down by other processes.
+
+To correct the record, now it stands that SimPath, on this particular dataset, is approximately 50% faster
+than LDAG, instead of 67%.
+
+Wei Lu
+May 12, 2017
+
+[1]. Amit Goyal, Wei Lu, Laks V. S. Lakshmanan, Simpath: An Efficient Algorithm for Influence Maximization under the Linear Threshold Model. In ICDM 2011. 
+
