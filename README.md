@@ -1,4 +1,4 @@
-# simpath-results
+# SimPath Results-sharing Project
 Results sharing for the SimPath algorithm with research software created at UBC.
 
 ## Research paper
