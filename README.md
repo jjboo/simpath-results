@@ -3,7 +3,8 @@ Results sharing for the SimPath algorithm with research software created at UBC.
 
 ## Research paper
 
-SimPath: An efficient algorithm for influence maximization under the linear threshold model. Amit Goyal, Wei Lu, and Laks V.S. Lakshmanan. In Proc. of the 11th IEEE International Conference on Data Mining (ICDM'11), Vancouver, B.C., December 2011. 
+- Wei Lu, Xiaokui Xiao, Amit Goyal, Keke Huang, Laks V.S. Lakshmanan. Refutations on "Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study". Arxiv preprint: https://arxiv.org/abs/1705.05144
+- Amit Goyal, Wei Lu, and Laks V.S. Lakshmanan. SimPath: An efficient algorithm for influence maximization under the linear threshold model. In Proc. of the 11th IEEE International Conference on Data Mining (ICDM'11), Vancouver, B.C., December 2011. 
 
 ## Software download
 For code, configs, data, etc: Go to http://www.cs.ubc.ca/~welu/downloads.html
